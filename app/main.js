@@ -9,3 +9,6 @@ console.log(subtractNumber(7, 3));
 
 const divideNumber = (a, b) => a / b;
 console.log(divideNumber(12, 4));
+
+const MathSin = (Number) => Math.sin(Number);
+console.log(MathSin(10));
